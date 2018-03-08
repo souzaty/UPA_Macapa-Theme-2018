@@ -1,8 +1,8 @@
 <?php
 /**
 * @package WordPress
-* @subpackage HEELJ
-* @since HEELJ 1.0
+* @subpackage UPA 24hrs
+* @since UPA 24hrs 1.0
 */
 
 // Funtion load scripts (Carrega scripts do bootstrap e font Awesome)
@@ -31,8 +31,8 @@ require_once('wp_bootstrap_pagination.php');
 /***** Custom Logo *****/
 function themename_custom_logo_setup() {
 $defaults = array(
-    'height'      => 80,
-    'width'       => 265,
+    'height'      => 70,
+    'width'       => 346,
     'flex-height' => true,
     'flex-width'  => true,
     'header-text' => array( 'site-title', 'site-description' ),
