@@ -1,8 +1,8 @@
 <?php
 /**
  * @package WordPress
- * @subpackage HEELJ
- * @since HEELJ 1.0
+ * @subpackage UPA 24hrs
+ * @since UPA 24hrs 1.0
 */
 
 ?>

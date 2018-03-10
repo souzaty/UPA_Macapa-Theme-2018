@@ -3,7 +3,7 @@
  * @package WordPress
  * @subpackage UPA 24hrs
  * @since UPA 24hrs 1.0
- */
+*/
 
 register_nav_menus(array(
 				'menu_principal_heelj' => __('Menu principal'),

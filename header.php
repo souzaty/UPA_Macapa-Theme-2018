@@ -1,10 +1,10 @@
 <?php
 /**
  * @package WordPress
- * @subpackage UPA 24rhs
- * @since UPA 24rhs 1.0
+ * @subpackage UPA 24hrs
+ * @since UPA 24hrs 1.0
 */
-	?>
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 	<head>

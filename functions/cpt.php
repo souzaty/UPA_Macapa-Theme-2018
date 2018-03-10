@@ -1,9 +1,9 @@
 <?php
 /** Theme Custom Post Types
  * @package WordPress
- * @subpackage HEELJ
- * @since HEELJ 1.0 Beta
- */
+ * @subpackage UPA 24hrs
+ * @since UPA 24hrs 1.0
+*/
 
  // Start CPT Corpo Clínico
  add_action('init', 'corpo_clinico_heelj_register');
