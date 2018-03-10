@@ -3,7 +3,7 @@
  * @package WordPress
  * @subpackage HEELJ
  * @since HEELJ 1.0
- */
+*/
 
 ?>
 

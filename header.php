@@ -1,9 +1,9 @@
 <?php
-	/**
-	 * @package WordPress
-	 * @subpackage HEELJ
-	 * @since HEELJ 1.0 Beta
-	*/
+/**
+ * @package WordPress
+ * @subpackage UPA 24rhs
+ * @since UPA 24rhs 1.0
+*/
 	?>
 <!DOCTYPE html>
 <html lang="pt-br">
