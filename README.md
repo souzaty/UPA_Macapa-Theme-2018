@@ -1,2 +1,5 @@
-# UPA 24hrs-Theme-2018
-Wordpress Theme for UPA 24hrs
+#UPA-Theme-2018
+
+## Wordpress Theme for _UPA Zona Sul de Macapá_
+
+**versão:** 1.0
