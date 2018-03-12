@@ -110,6 +110,12 @@ overflow-y: auto;
 }
 
 @media (min-width: 768px) {
+img.logo-upa {
+width: 50%;
+height: auto;
+margin: 20px 0 0 10px;
+}
+
 .navbar-custom {
 padding:38px 0;
 transition:padding .3s;
