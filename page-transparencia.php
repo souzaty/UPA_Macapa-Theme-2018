@@ -337,9 +337,9 @@
                                                 <li class="active"><a href="#contatratos-de-gestao" data-toggle="tab"
                                                    aria-expanded="false">Contratos de Gestão</a></li>
                                                 <li class=""><a href="#regulamentos" data-toggle="tab"
-                                                   aria-expanded="false">Regulamentos</a></li>
-                                                <li class=""><a href="#resumo-de-contratos" data-toggle="tab"
-                                                   aria-expanded="false">Resumo de Contatos</a></li>
+                                                   aria-expanded="false">Regulamento de Compras</a></li>
+                                                <li class=""><a href="#resumo-de-compras" data-toggle="tab"
+                                                   aria-expanded="false">Resumo de Compras</a></li>
                                              </ul>
                                           </div>
                                           <div class="col-xs-12 col-sm-8 col-lg-8 no-padding right">
@@ -354,20 +354,20 @@
                                                       include 'includes/transparencia-resultado-lista.php';
                                                       ?>
                                                 </div>
-                                                <div class="tab-pane" id="resumo-de-contratos">
+                                                <div class="tab-pane" id="regulamentos">
                                                    <?php
                                                       $wp_query = new WP_Query();
-                                                      $wp_query->query('post_type=transparencia&tipo-documento=resumo-de-contratos&posts_per_page=100');
+                                                      $wp_query->query('post_type=transparencia&tipo-documento=regulamento-de-compras&posts_per_page=100');
                                                       $count = 0;
                                                       ?>
                                                    <?php
                                                       include 'includes/transparencia-resultado-lista.php';
                                                       ?>
                                                 </div>
-                                                <div class="tab-pane" id="regulamentos">
+                                                <div class="tab-pane" id="resumo-de-compras">
                                                    <?php
                                                       $wp_query = new WP_Query();
-                                                      $wp_query->query('post_type=transparencia&tipo-documento=regulamento-de-compras&posts_per_page=100');
+                                                      $wp_query->query('post_type=transparencia&tipo-documento=resumo-de-compras&posts_per_page=100');
                                                       $count = 0;
                                                       ?>
                                                    <?php
